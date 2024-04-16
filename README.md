@@ -6,3 +6,5 @@ ok, talvez achei que seria mais facil
 
 
 ok agora uma nova alteração
+LEMBREI DO COMANDO GIT STATUS
+
