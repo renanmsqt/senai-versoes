@@ -3,3 +3,6 @@ tentando entender o que se passa nesse role
 talvez demore
 mas eu nunca achei que seria fácil
 ok, talvez achei que seria mais facil
+
+
+LEMBREI DO COMANDO GIT STATUS
